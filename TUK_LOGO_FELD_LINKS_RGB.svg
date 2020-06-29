@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="TUK_LOGO_FELD_LINKS_RGB.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 198.43 56.69"
+   viewBox="0 0 198.43 56.69"
+   height="56.69px"
+   width="198.43px"
+   y="0px"
+   x="0px"
+   id="Ebene_1"
+   version="1.1"><metadata
+   id="metadata31"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs29" /><sodipodi:namedview
+   inkscape:current-layer="Ebene_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="34"
+   inkscape:window-x="50"
+   inkscape:cy="28.54284"
+   inkscape:cx="96.765065"
+   inkscape:zoom="14.463539"
+   showgrid="false"
+   id="namedview27"
+   inkscape:window-height="1369"
+   inkscape:window-width="2510"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+
+<ellipse
+   ry="23.321491"
+   rx="23.298403"
+   cy="31.439838"
+   cx="94.091011"
+   id="path50"
+   style="fill:#075f8c;fill-rule:evenodd;stroke-width:2.37727" /><polygon
+   style="fill:#ffffff"
+   transform="translate(52.399853,2.0470723)"
+   id="polygon16"
+   points="31.245,20.809 52.644,20.809 52.646,17.336 41.888,14.173 31.245,17.515 "
+   fill="#075f8c" />
+<polygon
+   style="fill:#ffffff"
+   transform="translate(52.399853,2.0470723)"
+   id="polygon18"
+   points="38.34,22.063 32.647,41.37 28.347,41.37 34.026,22.063 "
+   fill="#075f8c" />
+<rect
+   style="fill:#ffffff"
+   id="rect20"
+   height="4.5890002"
+   width="4.7659998"
+   fill="#075f8c"
+   y="24.101072"
+   x="98.227852" />
+<rect
+   id="rect22"
+   height="4.5900002"
+   width="4.7659998"
+   fill="#b92919"
+   y="31.464071"
+   x="98.227852" />
+<rect
+   style="fill:#ffffff"
+   id="rect24"
+   height="4.5900002"
+   width="4.7659998"
+   fill="#075f8c"
+   y="38.827072"
+   x="98.227852" />
+</svg>
