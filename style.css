@@ -6,10 +6,20 @@ body, html {
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("/w3images/coffeehouse.jpg");
+  background-image: url("mensa-at-home.jpg");
   min-height: 75%;
 }
 
 .menu {
   display: none;
+}
+
+.w3-leftbar{
+  border-left:6px solid #00f;
+  background-color: #3ff;
+}
+
+.w3-rightbar{
+  border-right:6px solid #cfde26;
+  background-color: #ff0;
 }
