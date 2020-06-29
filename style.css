@@ -1,13 +1,15 @@
 body, html {
   height: 100%;
   font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth
 }
 
 .bgimg {
   background-position: center;
   background-size: cover;
-  background-image: url("mensa-at-home.jpg");
+  background-image: url("title.jpg");
   min-height: 75%;
+
 }
 
 .menu {
