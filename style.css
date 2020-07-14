@@ -21,6 +21,11 @@ body, html {
   background-color: #e9cbfb;
 }
 
+.w3-kommentarbar{
+  border-left:6px solid #0f0;
+  background-color: #c9f795;
+}
+
 .w3-rightbar{
   border-right:6px solid #cfde26;
   background-color: #ff0;
